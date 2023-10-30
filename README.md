@@ -14,5 +14,5 @@ Um simples aplicativo que acessa uma api externa que retorna uma lista de person
 git clone https://github.com/NionBr/rickpedia.git
 cd Rickpedia
 flutter pub get
-flutter pub run
+flutter run
 ```

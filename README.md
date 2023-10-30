@@ -1,16 +1,18 @@
-# myapp
+# RickPedia
 
-A new Flutter project.
+Um simples aplicativo que acessa uma api externa que retorna uma lista de personagens da série animada Rick and Morty.
 
-## Getting Started
+## Tools
 
-This project is a starting point for a Flutter application.
+- Flutter
+- Dart
+- Uno
 
-A few resources to get you started if this is your first Flutter project:
+## Pull and Run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+git clone https://github.com/NionBr/rickpedia.git
+cd Rickpedia
+flutter pub get
+flutter pub run
+```
